@@ -1,6 +1,6 @@
 # Welcome! A full web deployment project is available in here 🩵
 
-**GetAround team 🚖** asked us to **analyse delay of users** ⏰ and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to there car rent</ins> because of previous client delay. Also they want us to build a Machine Learning model to **predict rental prices per days** 💰 depending on car characteristics (engine power, color, brand...) ✅
+**GetAround team 🚖** asked us to **analyse delay of users** ⏰ and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to there car rent because of previous client delay</ins>. Also they want us to build a Machine Learning model to **predict rental prices per days** 💰 depending on car characteristics (engine power, color, brand...) ✅
 
 ---
 ### The project is divided in three parts, please check them in this respective order : 
