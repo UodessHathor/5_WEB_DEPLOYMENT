@@ -13,6 +13,7 @@
       
  * **Prices_Prediction_API_project** API where you can play with by changing car characteristics and predict rental prices per day 📈
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
+
       
  - 👇🏽 *Down here you have the full description of both projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
