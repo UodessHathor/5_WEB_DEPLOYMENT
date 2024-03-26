@@ -5,11 +5,11 @@
 ---
 ### The project is divided in three parts, please check them in this respective order : 
 
- * **Dashboard Streamlit project** : delay of user analysis dashboard with Streamlit
+ * **Dashboard Streamlit project** : delay of user analysis dashboard with Streamlit 👩‍🏫
     - https://doshdyndss-app-getaround-4bf17df654cb.herokuapp.com/ 
- * **MLflow_monitoring_project**: testing and monitoring models thanks to MLflow tool
+ * **MLflow_monitoring_project**: testing and monitoring models thanks to MLflow tool 👩🏽‍💻
     - https://doshdyndss-mlflow-getaround-30ede0bed4eb.herokuapp.com/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
- * **Prices_Prediction_API_project** API where you can play with by changing car characteristics and predict rental prices per day 
+ * **Prices_Prediction_API_project** API where you can play with by changing car characteristics and predict rental prices per day 📈
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
       
  - 👇🏽 *Down here you have the full description of both projects from Jedha, hope you enjoy them as did making them* 👇🏽
@@ -18,7 +18,7 @@
 ---
 
 
-## GetAround 🚘
+# GetAround 🚘
 
 [GetAround](https://www.getaround.com/?wpsrc=Google+Organic+Search) is the Airbnb for cars. You can rent cars from any person for a few hours to a few days! Founded in 2009, this company has known rapid growth. In 2019, they count over 5 million users and about 20K available cars worldwide. 
 
