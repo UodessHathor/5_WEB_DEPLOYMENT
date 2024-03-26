@@ -1,23 +1,19 @@
 # Welcome! A full web deployment project is available in here 🩵
 
-GetAround team asked us to **analyse delay of users** and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to there car rent<i/ns> because of previous client delay. Also they want us to build a Machine Learning model to **predict rental prices per days** depending on car characteristics (engine power, color, brand...) ✅
+**GetAround team 🚖** asked us to **analyse delay of users** ⏰ and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to there car rent<i/ns> because of previous client delay. Also they want us to build a Machine Learning model to **predict rental prices per days** 💰 depending on car characteristics (engine power, color, brand...) ✅
 
 ### The project is divided in three parts, please check them in this respective order : 
 
  * **Dashboard Streamlit project** : delay of user analysis dashboard with Streamlit
     - https://doshdyndss-app-getaround-4bf17df654cb.herokuapp.com/ 
-
  * **MLflow_monitoring_project**: testing and monitoring models thanks to MLflow tool
     - https://doshdyndss-mlflow-getaround-30ede0bed4eb.herokuapp.com/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
-
  * **Prices_Prediction_API_project** API where you can play with by changing car characteristics and predict rental prices per day 
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
-
-
-
+      
  - 👇🏽 *Down here you have the full description of both projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
-
+---
 
 
 ![snap](https://lever-client-logos.s3.amazonaws.com/2bd4cdf9-37f2-497f-9096-c2793296a75f-1568844229943.png)
