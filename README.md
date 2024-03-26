@@ -3,7 +3,7 @@
 **GetAround team 🚖** asked us to **analyse delay of users** ⏰ and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to their car rent because of previous client delay</ins>. Also they want us to build a Machine Learning model to **predict rental prices per day** 💰 depending on car characteristics (engine power, color, brand...) ✅
 
 ---
-### The project is divided in three parts, please check them in this respective order : 
+## The project is divided in three parts, please check them in this respective order : 
 
  * **Dashboard Streamlit project** : delay of user analysis dashboard with Streamlit 👩‍🏫
     - https://doshdyndss-app-getaround-4bf17df654cb.herokuapp.com/
