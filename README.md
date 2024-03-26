@@ -5,13 +5,13 @@
 ---
 ## ➡️ The project is divided in three parts, please check them in this respective order : 
 
- * ⇢ <ins>**Dashboard Streamlit project**</ins> : delay of user analysis dashboard with Streamlit 👩‍🏫
+ * ⇢ **Dashboard Streamlit project** : delay of user analysis dashboard with Streamlit 👩‍🏫
     - https://doshdyndss-app-getaround-4bf17df654cb.herokuapp.com/
 
- * ⇢ <ins>**MLflow_monitoring_project**</ins>: testing and monitoring models thanks to MLflow tool 👩🏽‍💻
+ * ⇢ **MLflow_monitoring_project**: testing and monitoring models thanks to MLflow tool 👩🏽‍💻
     - https://doshdyndss-mlflow-getaround-30ede0bed4eb.herokuapp.com/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
       
- * ⇢ <ins>**Prices_Prediction_API_project**</ins> :  API where you can play with by changing car characteristics and predict rental prices per day 📈
+ * ⇢ **Prices_Prediction_API_project** :  API where you can play with by changing car characteristics and predict rental prices per day 📈
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
 
       
