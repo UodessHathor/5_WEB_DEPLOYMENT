@@ -1,4 +1,4 @@
-# Welcome! A full web deployment project is available in here 🩵
+# Welcome! A web deployment project is available in here 🩵
 
 **GetAround team 🚖** asked us to **analyse delay of users** ⏰ and set of an **optimal threshold between two rentals**, in order to *reduce unsatified client* that <ins>can't access to their car rent because of previous client delay</ins>. Also they want us to build a Machine Learning model to **predict rental prices per day** 💰 depending on car characteristics (engine power, color, brand...) ✅
 
@@ -15,7 +15,7 @@
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
 
       
- - 👇🏽 *Down here you have the full description of both projects from Jedha, hope you enjoy them as did making them* 👇🏽
+ - 👇🏽 *Down here you have the full description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
 ---
 ---
