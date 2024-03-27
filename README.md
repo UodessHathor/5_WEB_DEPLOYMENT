@@ -15,7 +15,7 @@
     -  https://doshdyndss-fastapi-getaround-697d74a68277.herokuapp.com/docs
 
       
- - 👇🏽 *Down here you have the full description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
+ - 👇🏽 *Down here you have the description of projects from Jedha, hope you enjoy them as did making them* 👇🏽
 
 ---
 ---
