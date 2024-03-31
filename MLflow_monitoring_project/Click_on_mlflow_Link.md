@@ -12,7 +12,7 @@ Check the *accuracy* and all *sklearn metrics* inside tge **GETAROUND-PROJECT-pr
 * 👇🏽 *Down here you can access to the Streamlit Dashboard about this analysis* 👇🏽
 
 
-- https://doshdyndss-mlflow-getaround-30ede0bed4eb.herokuapp.com/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+- https://mlflow-the-real-7e2a6561c51a.herokuapp.com/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
 
 
 Enjoy! 🤗🍀🫧✨
